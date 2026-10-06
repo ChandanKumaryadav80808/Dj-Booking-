@@ -1,0 +1,6 @@
+{
+  "name": "BalaJi DJ",
+  "description": "BalaJi DJ Event Booking & Equipment Maintenance - Dancer DJ, Dhamal DJ, Decorated Rath, Orchestra Trolley, and Live Jagran setup for weddings, birthdays, and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
